@@ -18,7 +18,8 @@ Insurance Budget of $983,221 for all Non-Smokers.
 2. Power BI
 
 ## Fulfillment of Requirements
-### SQL Server
+## SQL Server
+
 #### 1. Healthy Individuals
 Total: 111 Employees
 #### 2. Compensation For Non-Smokers
@@ -35,9 +36,9 @@ Total Hours of Employees: nnn
 Total Compensation per year : $1,414.4
 
 
-### Power BI
+## Power BI
 
-#### Steps involved
+### Steps involved
 
 1.ETL [Data Extraction,Transform,Loading]
 
