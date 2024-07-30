@@ -4,7 +4,7 @@
 The HR Absenteeism Data Analysis project aims to analyze employee absenteeism patterns using SQL for data extraction and Power BI for data visualization. The goal is to identify trends, causes, and Reasons for employee absenteeism.
 
 
-## HR Request
+## HR Requirements
 1. Provide a list of Healthy Individuals and Low Abseteeism for our Healthy bonus programe.
 Total Budget $1000 USD
 
@@ -13,7 +13,7 @@ Insurance Budget of $983,221 for all Non-Smokers.
 
 3. Create a Dashboard for HR to understand Absenteeism at work based on approved wireframe.
 
-## Tool Used 
+## Tools Used 
 1. SQL Server
 2. Power BI
 
