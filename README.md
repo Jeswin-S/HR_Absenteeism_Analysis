@@ -36,24 +36,25 @@ Total Hours of Employees: nnn
 Total Compensation per year : $1,414.4
 
 
-## Power BI
+## POWER BI
 
-### Steps involved
+### Steps Involved
 
-1.ETL [Data Extraction,Transform,Loading]
+1. ETL [Data Extraction,Transform,Loading]
 
 The data was imported from SQL Server Database through Direct Query with the required and Cleaned Table.
 
-2.Creating Metrics using DAX
+2. Creating Metrics using DAX
 
 DAX measures were used to create calculated columns like Total Absenteeism Hours, Total_Days_of_Week and Total_Employees.
 
-3.Dashboard Building
+3. Dashboard Building
 
 A clear dashboard was build representing the all requirements that initially noted.Line graph representing the Average absenteeism hours in a Month and Week. 
 Tables Shows the Total Reasons for Absenteeism.
 
-4.Finding Insights
+4. Finding Insights
+
 Data was analysed by using all the metrics and graphs the insights were found that will help the HR to make decisions on Absenteeis.
 
 
