@@ -1,10 +1,12 @@
 
 # HR_ABSENTEEISM
+### Dashboard Link: https://app.powerbi.com/links/w8C8DCvu_y?ctid=8ed96d41-9b97-4818-831e-c38426843b1f&pbi_source=linkShare
 
+## Statement
 The HR Absenteeism Data Analysis project aims to analyze employee absenteeism patterns using SQL for data extraction and Power BI for data visualization. The goal is to identify trends, causes, and Reasons for employee absenteeism.
 
 
-## HR Requirements
+## HR Request
 1. Provide a list of Healthy Individuals and Low Abseteeism for our Healthy bonus programe.
 Total Budget $1000 USD
 
@@ -18,27 +20,21 @@ Insurance Budget of $983,221 for all Non-Smokers.
 2. Power BI
 
 ## Fulfillment of Requirements
-## SQL Server
-
+### SQL Server
 #### 1. Healthy Individuals
 Total: 111 Employees
 #### 2. Compensation For Non-Smokers
-Budget : $983,221
-
-Total Non-Smokers: 111
-
-Total Hours per Year: 2080
-
-Total Hours of Employees: nnn
-
-% Increase of Compensation per hour: 0.68%
-
-Total Compensation per year : $1,414.4
+- Budget : $983,221
+- Total Non-Smokers: 686
+- Total Hours per Year: 2080
+- Total Hours of Employees: nnn
+- % Increase of Compensation per hour: 0.68%
+- Total Compensation per year : $1,414.4
 
 
-## POWER BI
+### Power BI
 
-### Steps Involved
+#### Steps involved
 
 1. ETL [Data Extraction,Transform,Loading]
 
@@ -62,20 +58,16 @@ Data was analysed by using all the metrics and graphs the insights were found th
 
 ## Key Insights
 
-Total_Employees : 740  
-
-Average_Absenteeism_Hours : 6.92
-
-Total_Absenteeism_Hours : 5124 Hrs
-
-Total_Days : 2897 days
-
-BMI_Category Slicers
-
-Seasons_Name Slicers
-
-Used Line Chart
-
-Used Scatter Chart
-
-Images and Icons Inserted
+- Total_Employees : 740  
+- Average_Absenteeism_Hours : 6.92
+- Total_Absenteeism_Hours : 5124 Hrs
+- Total_Days : 2897 days
+- BMI_Category Slicers
+- Seasons_Name Slicers
+- Used Line Chart
+- Used Scatter Chart
+- Images and Icons Inserted
+## Data Source 
+The data sets used in this analysis are sourced from the 'Absent Data' YouTube channel.
+## Dashboard
+![Picture1](https://github.com/user-attachments/assets/a977d3ca-14e3-4cdc-8565-92b0812a287f)
